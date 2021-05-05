@@ -1,8 +1,0 @@
-{
-  "run": {
-    "type": "file",
-    "file": "my-app/public/index.html",
-    "ignoreCurrent": true,
-    "url": "http://127.0.0.1:3000"
-  }
-}
